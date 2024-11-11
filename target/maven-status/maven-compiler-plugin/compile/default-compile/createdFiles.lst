@@ -1,0 +1,9 @@
+br\ejb\EjbConsumerProductSecond.class
+br\model\Product.class
+br\ejb\EjbConsumerProduct.class
+br\model\ProductCrud.class
+br\resources\JavaEE8Resource.class
+br\jsf\JsfProduct.class
+br\jsf\JsfProducerProduct.class
+br\JAXRSConfiguration.class
+br\ejb\EjbProduct.class
