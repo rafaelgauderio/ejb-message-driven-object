@@ -2,6 +2,7 @@ br\ejb\EjbConsumerProductSecond.class
 br\model\Product.class
 br\ejb\EjbConsumerProduct.class
 br\model\ProductCrud.class
+br\ejb\EjbTimer.class
 br\resources\JavaEE8Resource.class
 br\jsf\JsfProduct.class
 br\jsf\JsfProducerProduct.class
